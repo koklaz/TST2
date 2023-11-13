@@ -39,7 +39,7 @@
           "Sweetie (by Katara)"
         ],
         "nationality": "Southern Air Temple",
-        "ethnicity": "Air Nomad",
+        "Acc No": "6264623987",
         "ages": [
           "112 (biologically 12) in Avatar: The Last Airbender[3]",
           "113-114 (biologically 13-14) in The Promise trilogy[4]",
